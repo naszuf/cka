@@ -28,9 +28,9 @@ k create clusterrolebinding app-role-binding-cka --clusterrole app-role-cka --se
 ----
 
     8  k get clusterroles group1-role-cka -o yaml
-    9  k get clusterroles group1-role-cka 
+    9  k get clusterrolebindings.rbac.authorization.k8s.io group1-role-binding-cka -o yaml
    10  k get sa group1-sa -o yaml
-   11* k edit clusterroles
+   11* k edit clusterroles group1-role-cka
 ----
 +
 * [ ] Architecture, Installation & Maintenance - Pod Resource
