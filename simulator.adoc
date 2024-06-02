@@ -34,6 +34,12 @@ k create clusterrolebinding app-role-binding-cka --clusterrole app-role-cka --se
 ----
 +
 * [ ] Architecture, Installation & Maintenance - Pod Resource
++
+[,terminal]
+----
+k top po -A | awk '{print $2","$1}' > high_cpu_pod.txt
+----
++
 * [ ] Architecture, Installation & Maintenance - Pod Logs - 1
 * [ ] Architecture, Installation & Maintenance - Pod Log
 * [ ] Architecture, Installation & Maintenance - Pod filter
