@@ -8,11 +8,11 @@
 * [x] Architecture, Installation & Maintenance - Log Reader
 * [x] Architecture, Installation & Maintenance - ETCD Restore
 * [x] Architecture, Installation & Maintenance - ETCD Backup
-* [ ] Architecture, Installation & Maintenance - Secret 1
-* [ ] Architecture, Installation & Maintenance - Secret
+* [x] Architecture, Installation & Maintenance - Secret 1
+* [x] Architecture, Installation & Maintenance - Secret
 * [ ] Architecture, Installation & Maintenance - Cluster Upgrade 
-* [ ] Architecture, Installation & Maintenance - Service filter
-* [ ] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
+* [?] Architecture, Installation & Maintenance - Service filter
+* [x] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
 * [ ] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
 * [ ] Architecture, Installation & Maintenance - Pod Resource
 * [ ] Architecture, Installation & Maintenance - Pod Logs - 1
