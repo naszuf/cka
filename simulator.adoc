@@ -1,0 +1,80 @@
+
+== killercoda.com
+
+== sachin/course/CKA/
+
+
+* [x] Architecture, Installation & Maintenance - Log Reader - 2
+* [x] Architecture, Installation & Maintenance - Log Reader
+* [x] Architecture, Installation & Maintenance - ETCD Restore
+* [x] Architecture, Installation & Maintenance - ETCD Backup
+* [ ] Architecture, Installation & Maintenance - Secret 1
+* [ ] Architecture, Installation & Maintenance - Secret
+* [ ] Architecture, Installation & Maintenance - Cluster Upgrade 
+* [ ] Architecture, Installation & Maintenance - Service filter
+* [ ] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
+* [ ] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
+* [ ] Architecture, Installation & Maintenance - Pod Resource
+* [ ] Architecture, Installation & Maintenance - Pod Logs - 1
+* [ ] Architecture, Installation & Maintenance - Pod Log
+* [ ] Architecture, Installation & Maintenance - Pod filter
+* [ ] Architecture, Installation & Maintenance - Create Pod
+* [ ] Architecture, Installation & Maintenance - Node Resource
+* [ ] Architecture, Installation & Maintenance - Log Reader - 1
+* [ ] Services & Networking - Services
+* [ ] Services & Networking - ClusterIP
+* [ ] Services & Networking - Coredns
+* [ ] Services & Networking - Coredns - 1
+* [ ] Services & Networking - Ingress
+* [ ] Services & Networking - Network Policy
+* [ ] Services & Networking - NodePort
+* [ ] Services & Networking -  NodePort - 1
+* [ ] Services & Networking -  Nslookup
+* [ ] Storage - Storage Class
+* [ ] Storage - Shared Volume
+* [ ] Storage - Persistent Volume Claim Resize
+* [ ] Storage - Storage Class, Persistent Volume, Persistent Volume Claim, Pod
+* [ ] Storage - Persistent Volume, Persistent Volume Claim, Storage Class
+* [ ] Storage - Persistent Volume Claim, Pod
+* [ ] Storage - Persistent Volume Claim
+* [ ] Storage - Persistent Volume, Persistent Volume Claim, Pod
+* [ ] Storage - Persistent Volume, Persistent Volume Claim
+* [ ] Storage - Persistent Volume
+* [ ] Troubleshooting - Deployment Issue 1
+* [ ] Troubleshooting - Pod Issue
+* [ ] Troubleshooting - Pod Issue - 1
+* [ ] Troubleshooting - Pod Issue - 2
+* [ ] Troubleshooting - Pod Issue - 3
+* [ ] Troubleshooting - Pod Issue - 4
+* [ ] Troubleshooting - Pod Issue - 5
+* [ ] Troubleshooting - Pod Issue - 6
+* [ ] Troubleshooting - Pod Issue - 7
+* [ ] Troubleshooting - Kubectl - Config Issue
+* [ ] Troubleshooting - Deployment Issue
+* [ ] Troubleshooting - Pod Issue - 8
+* [ ] Troubleshooting - Kubelet Issue
+* [ ] Troubleshooting - Deployment Not UP-TO-DATE
+* [ ] Troubleshooting - Deployment Issue 4
+* [ ] Troubleshooting - Controller Manager Issue
+* [ ] Troubleshooting - Network Policy Issue
+* [ ] Troubleshooting - Node Not Ready
+* [ ] Troubleshooting -  Kubectl - Port Issue
+* [ ] Troubleshooting -  Deployment Issue 3
+* [ ] Troubleshooting - Deployment Issue 2
+* [ ] Troubleshooting - Persistent Volume, Persistent Volume Claim - Issue
+* [ ] Troubleshooting - CronJob Issue
+* [ ] Troubleshooting -  Service account, role, role binding Issue
+* [ ] Troubleshooting - Service account, role, role binding Issue
+* [ ] Troubleshooting - DaemonSet Issue
+* [ ] Troubleshooting - ETCD Backup Issue
+* [ ] Workloads & Scheduling - Rollback
+* [ ] Workloads & Scheduling - Deployment
+* [ ] Workloads & Scheduling - Deployment Scale
+* [ ] Workloads & Scheduling - Deployment, Secret
+* [ ] Workloads & Scheduling - Deployment, Rollout
+* [ ] Workloads & Scheduling - Pod, Service - 1
+* [ ] Workloads & Scheduling - ConfigMap, Deployment
+* [ ] Workloads & Scheduling - Pod, Service
+* [ ] Workloads & Scheduling - Deployment Issue
+* [ ] Workloads & Scheduling - Deployment History
+* [ ] Workloads & Scheduling - Pod
