@@ -13,7 +13,26 @@
 * [ ] Architecture, Installation & Maintenance - Cluster Upgrade 
 * [?] Architecture, Installation & Maintenance - Service filter
 * [x] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
++
+[source,terminal]
+----
+kubectl config use-context kubernetes-admin@kubernetes
+k create sa app-account
+k create clusterrole app-role-cka --verb=get --resource=pods
+k create clusterrolebinding app-role-binding-cka --clusterrole app-role-cka --serviceaccount default:app-account
+----
++
 * [ ] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
++
+[,terminal]
+----
+
+    8  k get clusterroles group1-role-cka -o yaml
+    9  k get clusterroles group1-role-cka 
+   10  k get sa group1-sa -o yaml
+   11* k edit clusterroles
+----
++
 * [ ] Architecture, Installation & Maintenance - Pod Resource
 * [ ] Architecture, Installation & Maintenance - Pod Logs - 1
 * [ ] Architecture, Installation & Maintenance - Pod Log
