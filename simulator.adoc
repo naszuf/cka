@@ -22,7 +22,7 @@ k create clusterrole app-role-cka --verb=get --resource=pods
 k create clusterrolebinding app-role-binding-cka --clusterrole app-role-cka --serviceaccount default:app-account
 ----
 +
-* [ ] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
+* [x] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
 +
 [,terminal]
 ----
@@ -33,7 +33,7 @@ k create clusterrolebinding app-role-binding-cka --clusterrole app-role-cka --se
    11* k edit clusterroles group1-role-cka
 ----
 +
-* [ ] Architecture, Installation & Maintenance - Pod Resource
+* [x] Architecture, Installation & Maintenance - Pod Resource
 +
 [,terminal]
 ----
