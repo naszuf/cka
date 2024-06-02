@@ -12,6 +12,12 @@
 * [x] Architecture, Installation & Maintenance - Secret
 * [ ] Architecture, Installation & Maintenance - Cluster Upgrade 
 * [?] Architecture, Installation & Maintenance - Service filter
++
+[,termninal]
+----
+ kubectl get svc redis-service  -o=jsonpath="{.spec.ports[*]['targetPort']}"
+----
++
 * [x] Architecture, Installation & Maintenance - Service account, cluster role, cluster role binding
 +
 [source,terminal]
