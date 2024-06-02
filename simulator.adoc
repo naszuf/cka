@@ -1,7 +1,11 @@
 
 == killercoda.com
 
-== sachin/course/CKA/
+=== /killer-shell-cka
+
+=== /chadmcrowell/course/cka
+
+=== /sachin/course/CKA/
 
 
 * [x] Architecture, Installation & Maintenance - Log Reader - 2
